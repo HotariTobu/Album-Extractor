@@ -1,13 +1,8 @@
-# 
+# Album-Extractor
 
-``
+`Album-Extractor` converts a slide show video into images.
 
 ## Description
-
-
-
-### Word definitions
-
 
 
 ## Demo
